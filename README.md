@@ -1,6 +1,6 @@
 # cxx
 #ER图
-![ER图](cxx/111.PNG)
+![ER图](https://github.com/cxx1996124/cxx/blob/master/111.PNG)
 Table structure for table `保养信息`
 --
 
